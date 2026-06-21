@@ -1,0 +1,18 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# Reports
+reports/
+
+# Screenshots
+screenshots/
+
+# Mac
+.DS_Store
