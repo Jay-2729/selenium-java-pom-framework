@@ -59,6 +59,5 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xs
         <artifactId>extentreports</artifactId>
         <version>5.1.1</version>
     </dependency>
-
 </dependencies>
 </project>
