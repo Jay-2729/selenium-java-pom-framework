@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is an enterprise-style Selenium Web Automation Framework built using Java, Selenium WebDriver, TestNG, Maven, Page Object Model (POM), Apache POI, Log4j, and Extent Reports.
+This project is an enterprise-style Selenium Web Automation Framework built using Java, Selenium WebDriver, TestNG, Maven, Page Object Model (POM), Apache POI, Log4j, and Extent Reports.Test
 
 The framework follows industry best practices and design patterns to ensure maintainability, scalability, reusability, and reliability.
 
